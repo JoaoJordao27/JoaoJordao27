@@ -7,6 +7,7 @@ Desenvolvo projetos em **Python** com foco em **dados, finanças e IA aplicada**
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [copiloto_restaurante](https://github.com/JoaoJordao27/copiloto_restaurante) · [demo online](https://copiloto-restaurante.streamlit.app/) | Agente de IA que responde em português sobre vendas e avaliações de um restaurante de delivery: SQL somente leitura, gráficos, painel de indicadores e relatório diário por e-mail | Gemini · Streamlit · SQLite · n8n |
+| [previsao-tempo-entrega](https://github.com/JoaoJordao27/previsao-tempo-entrega) · [demo online](https://previsao-tempo-entrega.streamlit.app/) | Previsão do tempo de entrega com intervalo calibrado (conformal): LightGBM, API FastAPI e tela em Streamlit | LightGBM · FastAPI · Streamlit · pandas |
 | [stock-intelligence-platform](https://github.com/JoaoJordao27/stock-intelligence-platform) | Pipeline de dados de ações da B3: modelo estrela em SQLite, risco/retorno, ML com walk-forward e dashboards | pandas · yfinance · XGBoost · SQLite |
 | [local-rag-study-assistant](https://github.com/JoaoJordao27/local-rag-study-assistant) | Assistente de estudo com RAG 100% local: responde sobre um PDF e gera quizzes | LangChain · FAISS · Ollama · Streamlit |
 | [analise-acoes-b3](https://github.com/JoaoJordao27/analise-acoes-b3) | Retornos, risco, drawdown, correlação e carteira vs IBOV | pandas · matplotlib · yfinance |
