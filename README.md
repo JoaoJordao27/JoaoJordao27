@@ -6,10 +6,9 @@ Desenvolvo projetos em **Python** com foco em **dados, finanças e IA aplicada**
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [copiloto_restaurante](https://github.com/JoaoJordao27/copiloto_restaurante) · [demo online](https://copiloto-restaurante.streamlit.app/) | Agente de IA que responde em português sobre vendas e avaliações de um restaurante de delivery: SQL somente leitura, gráficos, painel de indicadores e relatório diário por e-mail | Gemini · Streamlit · SQLite · n8n |
 | [stock-intelligence-platform](https://github.com/JoaoJordao27/stock-intelligence-platform) | Pipeline de dados de ações da B3: modelo estrela em SQLite, risco/retorno, ML com walk-forward e dashboards | pandas · yfinance · XGBoost · SQLite |
 | [local-rag-study-assistant](https://github.com/JoaoJordao27/local-rag-study-assistant) | Assistente de estudo com RAG 100% local: responde sobre um PDF e gera quizzes | LangChain · FAISS · Ollama · Streamlit |
-| [cpro-study-assistant-claude](https://github.com/JoaoJordao27/cpro-study-assistant-claude) | Versão com a API da Claude: chat com páginas citadas e quiz de múltipla escolha | Anthropic API · BM25 · Streamlit |
-| [data-science-financas](https://github.com/JoaoJordao27/data-science-financas) | Roteiro de estudos de data science aplicado a finanças, em 7 módulos | pandas · scikit-learn · séries temporais |
 | [analise-acoes-b3](https://github.com/JoaoJordao27/analise-acoes-b3) | Retornos, risco, drawdown, correlação e carteira vs IBOV | pandas · matplotlib · yfinance |
 | [kaggle-projects](https://github.com/JoaoJordao27/kaggle-projects) | Titanic, risco de crédito, Campeonato Brasileiro e Iris | scikit-learn · pandas |
 
